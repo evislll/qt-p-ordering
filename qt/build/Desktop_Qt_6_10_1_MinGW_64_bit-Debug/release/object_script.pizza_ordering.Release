@@ -1,0 +1,13 @@
+release/animatedstack.o
+release/main.o
+release/mainwindow.o
+release/mapwidget.o
+release/pages.o
+release/steprail.o
+release/uihelpers.o
+release/qrc_resources.o
+release/moc_animatedstack.o
+release/moc_mainwindow.o
+release/moc_mapwidget.o
+release/moc_pages.o
+release/moc_steprail.o

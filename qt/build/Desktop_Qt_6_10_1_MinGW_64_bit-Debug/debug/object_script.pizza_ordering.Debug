@@ -1,0 +1,13 @@
+debug/animatedstack.o
+debug/main.o
+debug/mainwindow.o
+debug/mapwidget.o
+debug/pages.o
+debug/steprail.o
+debug/uihelpers.o
+debug/qrc_resources.o
+debug/moc_animatedstack.o
+debug/moc_mainwindow.o
+debug/moc_mapwidget.o
+debug/moc_pages.o
+debug/moc_steprail.o
